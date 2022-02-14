@@ -26,9 +26,10 @@ TotalPayBenefits:Sum of TotalPay and Benefits
 
 Year:2011 to 2018
 
-In the FranciscoCleaning file you will see that all the NaN values and all the 0 values have been taken out so the proper BasePay or the any other Column statistics could be seen.
-Indexing inconsistencies that came along with the cleaning have also been fixed.
+In the FranciscoCleaning file you will see that all the NaN values and all the 0 values have been taken out so the proper BasePay or any other Column statistics could be analyzed properly.
+Indexing inconsistencies that came along with the cleaning have been fixed.
 Most popular jobs and the most paying jobs have been analyzed.
+You will see that there is no more info about the year 2011 in Cleaning version even though it was on the EDA version.2011 year entries did not repeat themselves throught the years so the changes on those jobs,pays,benefits could not be analyzed therefore 2011 year entries have been taken out completely.
 
 Note to Self : - Cleaning could have been done more efficently
                - Lots of room to keep on analyzing.
