@@ -25,3 +25,12 @@ TotalPay:Sum of BasePay, OverTimePay and OtherPay
 TotalPayBenefits:Sum of TotalPay and Benefits
 
 Year:2011 to 2018
+
+In the FranciscoCleaning file you will see that all the NaN values and all the 0 values have been taken out so the proper BasePay or the any other Column statistics could be seen.
+Indexing inconsistencies that came along with the cleaning have also been fixed.
+Most popular jobs and the most paying jobs have been analyzed.
+
+Note to Self : - Cleaning could have been done more efficently
+               - Lots of room to keep on analyzing.
+               - Can be coupled with another counties salary database to see how jobs and people's earnings have changed throught the years compared to different counties.
+               - Predictions about the next years pay,benefits etc. can be done.
